@@ -2,7 +2,8 @@
 """
 Spyder Editor
 
-Juan Andres Mercado, Connection file in python.
+@author: andre 
+Connection file in python.
 """
 
 from paramsCFG import APIGPT, APIDISCORD
